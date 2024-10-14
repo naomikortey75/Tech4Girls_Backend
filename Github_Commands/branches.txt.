@@ -1,0 +1,1 @@
+Git Pull is used to pull or fetch a file or changes done from a remote to the the users local machine. one does the git pull in other to keep the local machine updated (up to date) since both remote and local must be in sync in other to avoid conflicts.
