@@ -1,0 +1,1 @@
+Absolute Path is the path where the user while in the parent directory goes through all the directories created before the desired directory was created. Relative Path specifies the location of the parent directory to the desired directory that is moving into the desired directory when in the parent directory.
