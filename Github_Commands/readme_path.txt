@@ -1,0 +1,1 @@
+since README.md is file and not a directory there is no absolute path to the it. hence absolute path is used to locate directories not files.
