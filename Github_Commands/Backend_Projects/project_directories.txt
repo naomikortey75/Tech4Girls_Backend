@@ -1,0 +1,1 @@
+to create a directory called Backend_Project, move into it by typing cd Backend_Project then create the other two directories ; Project A and B by using mkdir
