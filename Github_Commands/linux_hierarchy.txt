@@ -1,0 +1,1 @@
+bin directory,etc directory,var directory,usr directory,tmp directory,log directory,home
