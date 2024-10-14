@@ -1,0 +1,1 @@
+the string representation of read file permission is r
