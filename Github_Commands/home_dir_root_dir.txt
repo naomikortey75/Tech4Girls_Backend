@@ -1,0 +1,1 @@
+Home directory is the personal directory of the user where other directories are stored and are usually saved in the users name to move into the home directory execute cd~ while Root directory is the topmost directory in the Linux hierarchy execute cd /to move into the root directory.
