@@ -1,0 +1,1 @@
+Creating a Branch: type git branch then add the name of the branch you want. for instance git branch feature-doc then enter to create the branch,to move into the new branch; git checkout the name of the new branch; git checkout feature-doc to work in the new branch. git push origin name of new branch (feature-doc)to push the new branch to github 
