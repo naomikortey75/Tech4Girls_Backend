@@ -1,0 +1,1 @@
+the command to use so that only the owner can read and write, while the group and otherscan only read the file chmod 644
