@@ -1,0 +1,1 @@
+-rw-r--r-- 1 userhaccsa userhaccsa 70 0ct 14 10:00; this output means that the owner of the file or directory has read and write permission or right to the folder or file while the others and group have only read permissions or right to the folder. userhaccsa is the owner of the folder and the date and time shows the date and time the folder was created
