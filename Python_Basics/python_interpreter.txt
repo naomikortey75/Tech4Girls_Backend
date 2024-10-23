@@ -1,0 +1,9 @@
+type sudo apt install python3 in your terminal
+enter your password
+check to be sure you are in the current version; python3 --version
+
+#!/usr/bin/python3
+x= 3
+y= 4
+print(x+y)
+execute the file to get the results
