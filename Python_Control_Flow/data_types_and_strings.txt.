@@ -1,0 +1,7 @@
+#!/usr/bin/python3
+int: integers are whole numbers whether negative or positive but not with decimal points. Example: -1
+float: floats are decimals numbers whether negative or positive but not whole numbers. Example: -1.2
+str: strings are characters be it numbers, alphabets or words typed in quotes. Example: "Hello"
+list: is a bunch of sequential data; be it alphabets, words or numbers that can be modified. They are usually notified by square brackets. Example ['Naomi', 'Dede']
+tuple: a tuple is similar to list but items in a tuple cannot not be modified and are usually notified by brackets/parenthesis. Example; (1,2,3,4)
+set: sets contain values or items that are unordered, have no duplicate and are usually notified by curly brackets. Example; { 'Naomi', 'Dede'}
