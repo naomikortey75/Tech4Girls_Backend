@@ -18,7 +18,7 @@ print(my_pets)
 my_pets.reverse()
 print(my_pets)
 
-print(my_pets.extend(my_toys))"""
+print(my_pets.extend(my_toys))
 
 
 #ii
@@ -40,3 +40,9 @@ print(Odd)
 
 Odd.difference(Even)
 print(Odd)
+
+
+number_tuple = (3,5,7,9)
+index = number_tuple.index(3)
+print(index)"""
+
